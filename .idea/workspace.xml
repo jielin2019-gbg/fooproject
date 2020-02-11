@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6be00257-b886-497f-bc0b-502a5bd0c3fa" name="Default Changelist" comment="add pom file">
-      <change beforePath="$PROJECT_DIR$/src/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Foo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/FooTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FooTest.java" afterDir="false" />
+    <list default="true" id="6be00257-b886-497f-bc0b-502a5bd0c3fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,12 +69,35 @@
       <option name="project" value="LOCAL" />
       <updated>1581328755968</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add xml files">
+      <created>1581419221530</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581419221530</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add xml files">
+      <created>1581419327314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581419327314</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add Jenkinsfile">
+      <created>1581419796494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581419796494</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add pom file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add pom file" />
+    <MESSAGE value="add xml files" />
+    <MESSAGE value="add Jenkinsfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Jenkinsfile" />
   </component>
   <component name="WindowStateProjectService">
     <state x="670" y="48" key="#Project_Structure" timestamp="1580986666662">
@@ -90,10 +112,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="1050" y="346" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1580986693162" />
-    <state x="0" y="51" key="CommitChangelistDialog2" timestamp="1581419219617">
+    <state x="0" y="51" key="CommitChangelistDialog2" timestamp="1581419795284">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="0" y="51" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1581419219617" />
+    <state x="0" y="51" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1581419795284" />
     <state width="1340" height="206" key="GridCell.Tab.0.bottom" timestamp="1581332435568">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -114,10 +136,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="280" y="5" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1581327249560" />
-    <state x="784" y="247" key="Vcs.Push.Dialog.v2" timestamp="1581419239917">
+    <state x="784" y="247" key="Vcs.Push.Dialog.v2" timestamp="1581419804783">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="784" y="247" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1581419239917" />
+    <state x="784" y="247" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1581419804783" />
     <state x="460" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1581419120369">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
