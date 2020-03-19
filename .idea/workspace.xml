@@ -27,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -90,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581419796494</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add Jenkinsfile">
+      <created>1581423870802</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581423870802</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add Jenkinsfile">
+      <created>1581424697935</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581424697935</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -112,10 +127,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="1050" y="346" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1580986693162" />
-    <state x="0" y="51" key="CommitChangelistDialog2" timestamp="1581419795284">
+    <state x="0" y="51" key="CommitChangelistDialog2" timestamp="1581424696905">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="0" y="51" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1581419795284" />
+    <state x="0" y="51" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1581424696905" />
     <state width="1340" height="206" key="GridCell.Tab.0.bottom" timestamp="1581332435568">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -136,13 +151,17 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="280" y="5" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1581327249560" />
-    <state x="784" y="247" key="Vcs.Push.Dialog.v2" timestamp="1581419804783">
+    <state x="784" y="247" key="Vcs.Push.Dialog.v2" timestamp="1581424709073">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="784" y="247" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1581419804783" />
-    <state x="460" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1581419120369">
+    <state x="784" y="247" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1581424709073" />
+    <state x="460" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1582017822113">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="460" y="319" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1581419120369" />
+    <state x="460" y="319" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1582017822113" />
+    <state x="182" y="51" key="new project wizard" timestamp="1582017922001">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="51" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1582017922001" />
   </component>
 </project>
