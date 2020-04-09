@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6be00257-b886-497f-bc0b-502a5bd0c3fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/GitProject/galaxyZoo" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -105,14 +106,22 @@
       <option name="project" value="LOCAL" />
       <updated>1581424697935</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add newman code">
+      <created>1584612086113</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584612086113</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add pom file" />
     <MESSAGE value="add xml files" />
     <MESSAGE value="add Jenkinsfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Jenkinsfile" />
+    <MESSAGE value="add newman code" />
+    <option name="LAST_COMMIT_MESSAGE" value="add newman code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="670" y="48" key="#Project_Structure" timestamp="1580986666662">
@@ -127,10 +136,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="1050" y="346" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1580986693162" />
-    <state x="0" y="51" key="CommitChangelistDialog2" timestamp="1581424696905">
+    <state x="66" y="29" key="CommitChangelistDialog2" timestamp="1584612082456">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="0" y="51" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1581424696905" />
+    <state x="66" y="29" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1584612082456" />
+    <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1585227500476">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1585227500475" />
     <state width="1340" height="206" key="GridCell.Tab.0.bottom" timestamp="1581332435568">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -155,10 +168,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="784" y="247" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1581424709073" />
-    <state x="460" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1582017822113">
+    <state x="460" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1585227466685">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="460" y="319" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1582017822113" />
+    <state x="460" y="319" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1585227466685" />
     <state x="182" y="51" key="new project wizard" timestamp="1582017922001">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

@@ -26,4 +26,28 @@ stage('newman') {
                     }
                 }
         }
+stage('robot') {
+            steps {
+                sh 'robot -d results --variable BROWSER:headlesschrome infotiv.robot'
+            }
+            post {
+                always {
+                    script {
+                          step(
+                                [
+                                  $class              : 'RobotPublisher',
+                                  outputPath          : 'results',
+                                  outputFileName      : '**/output.xml',
+                                  reportFileName      : '**/report.html',
+                                  logFileName         : '**/log.html',
+                                  disableArchiveOutput: false,
+                                  passThreshold       : 50,
+                                  unstableThreshold   : 40,
+                                  otherFiles          : "**/*.png,**/*.jpg",
+                                ]
+                           )
+                    }
+                }
+            }
+        }
 } }
